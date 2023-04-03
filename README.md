@@ -25,4 +25,4 @@ http://localhost:8080/api/product/add
 
 ## Database Diagram
 
-![Product Table](/diagram/Product_Table.png)
+![Product Table](/diagram/template_01.png)
